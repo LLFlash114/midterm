@@ -39,7 +39,7 @@ li > a:link {
     background-color: #C9ADA7;
 }
 
-.food_menu h2{
+h2{
     text-align: center;
 }
 
@@ -56,6 +56,23 @@ li > a:link {
     list-style-type: square;
 
 }
+
+.about_us{
+    background-color:#C9ADA7;
+    position: absolute;
+    margin: 10px 5px 5px;
+}
+
+.about_us img{
+    float: right;
+    width: 210px;
+    height: 175px;
+}
+
+
+
+
+
 
 
 
