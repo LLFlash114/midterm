@@ -19,10 +19,47 @@ li > a:link {
 
 .main{
     background-color: #C9ADA7;
+    padding: auto;
+    margin: auto;
+
+    
+    
+    
+
+
+    
+}
+
+.main h1{
+    text-align: center;
 }
 .main img{
     margin: auto;
     display: block;
 
 }
+.food_menu{
+    background-color: #C9ADA7;
+}
+
+.food_menu h2{
+    text-align: center;
+}
+
+.food_menu h3{
+    text-align: center;
+}
+
+.list {
+    background-color: #9A8C98;
+    margin-left: 7px;
+}
+
+.list ul{
+    list-style-type: square;
+
+}
+
+
+
 
