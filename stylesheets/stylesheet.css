@@ -17,3 +17,12 @@ li > a:link {
     color: darkslateblue;
 }
 
+.main{
+    background-color: #C9ADA7;
+}
+.main img{
+    margin: auto;
+    display: block;
+
+}
+
